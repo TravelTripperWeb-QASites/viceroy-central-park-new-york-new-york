@@ -1,10 +1,6 @@
 {
-  "name": "City View",
+  "name": "hotel_image2",
   "image": {
-    "url": "/assets/stock_images/city-view.jpg",
-    "url_large": "",
-    "url_medium": "",
-    "alt_text": "City View"
-  },
-  "order": 2
+    "url": "https://d31f902anbz5po.cloudfront.net/1653/244940_1_master.jpg"
+  }
 }
